@@ -1,0 +1,1 @@
+2018-06-13T03:00:02+09:00 INFO (6): Connect Error: SQLSTATE[08006] [7] could not translate host name "reserve-engine.cyiejie8tb6b.ap-northeast-1.rds.amazonaws.com" to address: Name or service not known
