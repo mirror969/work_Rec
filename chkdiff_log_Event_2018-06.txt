@@ -4306,3 +4306,38 @@ JIP側、RE側の登録値に差異があります。
 イベントID: summer18sp 面接枠ID: a0s0I000006E1mTQAS (面接枠名称: 面接)    
     column:jip_course_id RE:a0y0I000004UYhgQAG JIP:a0y0I000004UYhlQAG
 2018-06-19T10:39:08+09:00 INFO (6): [243539001529372182] 差分チェック 完了しました。
+2018-06-19T12:11:05+09:00 INFO (6): [206444001529377865] 差分チェック 開始しました。
+2018-06-19T12:13:49+09:00 INFO (6): [206444001529377865] バリデートエラー。
+
+JIP側、RE側の登録値に差異があります。
+イベントID: summer18sp 面接枠ID: a0s0I000005gE35QAE (面接枠名称: 面接)    
+    column:public_flg RE:2 JIP:1
+
+
+JIP側、RE側の登録値に差異があります。
+イベントID: summer18sp 面接枠ID: a0s0I000005gE3eQAE (面接枠名称: 面接)    
+    column:public_flg RE:2 JIP:1
+
+
+JIP側、RE側の登録値に差異があります。
+イベントID: summer18sp 面接枠ID: a0s0I000006E1kpQAC (面接枠名称: 面接)    
+    column:jip_course_id RE:a0y0I000004UYhgQAG JIP:a0y0I000004UYhlQAG
+
+
+JIP側、RE側の登録値に差異があります。
+イベントID: summer18sp 面接枠ID: a0s0I000006E1lpQAC (面接枠名称: 面接)    
+    column:jip_course_id RE:a0y0I000004UYhgQAG JIP:a0y0I000004UYhlQAG
+
+
+JIP側、RE側の登録値に差異があります。
+イベントID: summer18sp 面接枠ID: a0s0I000006E1mTQAS (面接枠名称: 面接)    
+    column:jip_course_id RE:a0y0I000004UYhgQAG JIP:a0y0I000004UYhlQAG
+2018-06-19T12:28:01+09:00 INFO (6): [206444001529377865] バリデートエラー。
+・イベントID: summer18bg のJIP側面談枠件数: 2968
+
+
+・イベントID: summer18bg のJIP側とRE側の登録面談枠の登録件数に差異があります。
+
+      JIP側に存在し、RE側に存在しない面談枠
+          a0s0I000005g0biQAA
+2018-06-19T12:28:01+09:00 INFO (6): [206444001529377865] 差分チェック 完了しました。
